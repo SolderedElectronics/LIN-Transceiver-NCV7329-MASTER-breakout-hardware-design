@@ -1,5 +1,5 @@
 SKU: 333026
 Full product name: LIN Transceiver NCV7329 MASTER breakout
 Country of origin: Croatia
-HS tariff code: 85444290
+HS tariff code: 85340090
 EAN/UPC barcode: 732388673803
